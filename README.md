@@ -1,9 +1,6 @@
-
-
-
 **A Simple Blog Application built using [Django](https://docs.djangoproject.com/en/3.9/) Framework.**
 
-                                      😃Hit that ⭐ button to show some ❤️           
+                                      Hit the ⭐ button to show some ❤️           
 
 ## Getting Started
 
