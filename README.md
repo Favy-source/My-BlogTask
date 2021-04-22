@@ -49,23 +49,23 @@ And the installed version of python will be printed.
 ```
 cd desktop
 
-mkdir mydblog
+mkdir mydblogtask
 
-cd mydblog
+cd mydblogtask
 ```
 ---
 **Step 4**: Cloning Repository using Git
 ```
-git clone https://github.com/chiraag-kakar/My-Django-Blog.git
+git clone https://github.com/Favy-source/My-Django-BlogTask.git
 ```
-Note: The cloned repo directory need to be renamed as "My-Django-Blog".
+Note: The cloned repo directory need to be renamed as "My-Django-BlogTask".
 
 ---
 **Step 5**: Creating Virtual Environment
 
 Change the directory to the required one where the virtual environment will be created :
 ```
-cd My-Django-Blog
+cd My-Django-BlogTask
 ```
 Creating Virtual Environment named "myvenv" :
 ```
@@ -139,4 +139,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Django Girls Tutorial
+* I4G ZuriTrainin and HNG Internship, Django Girls Tutorial
